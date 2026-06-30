@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.mrc
+*.map
+*.map.gz
+.venv/
